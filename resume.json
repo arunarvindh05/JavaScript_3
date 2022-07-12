@@ -1,0 +1,68 @@
+{
+    "basics": {
+      "name": "ArunArvindh S",
+      "label": "Mr",
+      "picture": "image.png",
+      "email": "arunarvindh05@gamil.com",
+      "phone": "909455555",
+      "degree": "B.Tech",
+      "website": "www.arunarvindh.com",
+      "summary": "Hardworking software development professional driven to increase team effectiveness. Focused on usability and performance improvements.",
+      "highlights": [
+          "Goal-oriented Developer with strong commitment to collaboration and solutions-oriented problem-solving."
+      ],
+      "location": {
+        "address": "No 3 Vellapar Street Chromepet",
+        "postalCode": "600044",
+        "city": "Chennai",
+        "countryCode": "India",
+        "State": "Tamil Nadu"
+      },
+      "profiles": [
+        {
+          "github": "github.com/arunarvindh05",
+          "linkedIn": "linkedin.in./arunarvindh05"
+        }
+      ]
+    },
+    "work": [
+      {
+        "company": "TCS",
+        "position": "System Engineer",
+        "experience": "2 years",
+        "role":"Java Developer",
+        "summary": "Discussed project progress with customers, collected feedback on different stages and directly addressed concerns and Delivered performance-driven and Gathered and defined customer"
+        
+      }
+    ],
+    
+    "education": [
+      {
+        "institution": "HITS",
+        "area": "Chennai",
+        "studyType": "Engineer",
+        "gpa": "9.53",
+        "courses": [
+          "Computer Science"
+        ]
+      }
+    ],
+    "publications": [
+      {
+        "name": "Auto Restoration of infected virtual machines in cloud using open stack ",
+        "publisher": "Journal of Advanced Research in Dynamical & Control Systems",
+        "website": "/url",
+        "summary": "Auto Restoration of infected virtual machines in cloud using open stack"
+      }
+    ],
+   "skills": [
+      {
+        "name": "Java",
+        "level": "8"
+      },
+      {
+        "name": "java Script",
+        "level": "7"
+      }
+    ]
+}
